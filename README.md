@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @brayanquintana
-- 🌱 I’m currently learning Python
-g
+for new line:
+print("Brayan\nQuintana") 
+
+for maintain ":
+print("Brayan\"Quintana")
